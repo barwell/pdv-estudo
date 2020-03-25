@@ -9,3 +9,9 @@ C:\Users\Pablo\Documents\web\pdv\PDV.Componentes\obj\Debug\PDV.Componentes.cspro
 C:\Users\Pablo\Documents\web\pdv\PDV.Componentes\obj\Debug\PDV.Componentes.dll
 C:\Users\Pablo\Documents\web\pdv\PDV.Componentes\obj\Debug\PDV.Componentes.pdb
 C:\Users\Pablo\Documents\web\pdv\PDV.Componentes\obj\Debug\PDV.Componentes.csprojAssemblyReference.cache
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.Componentes\bin\Debug\PDV.Componentes.dll
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.Componentes\bin\Debug\PDV.Componentes.pdb
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.Componentes\obj\Debug\PDV.Componentes.csprojAssemblyReference.cache
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.Componentes\obj\Debug\PDV.Componentes.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.Componentes\obj\Debug\PDV.Componentes.dll
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.Componentes\obj\Debug\PDV.Componentes.pdb

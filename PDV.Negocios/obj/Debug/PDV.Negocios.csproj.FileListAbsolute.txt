@@ -20,3 +20,14 @@ C:\Users\Pablo\Documents\web\pdv\PDV.Negocios\obj\Debug\PDV.Negocios.csproj.Core
 C:\Users\Pablo\Documents\web\pdv\PDV.Negocios\obj\Debug\PDV.Negocios.csproj.CopyComplete
 C:\Users\Pablo\Documents\web\pdv\PDV.Negocios\obj\Debug\PDV.Negocios.dll
 C:\Users\Pablo\Documents\web\pdv\PDV.Negocios\obj\Debug\PDV.Negocios.pdb
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.Negocios\bin\Debug\PDV.Negocios.dll
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.Negocios\bin\Debug\PDV.Negocios.pdb
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.Negocios\bin\Debug\PDV.AcessoBancoDados.dll
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.Negocios\bin\Debug\PDV.ObjetoTransferencia.dll
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.Negocios\bin\Debug\PDV.AcessoBancoDados.pdb
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.Negocios\bin\Debug\PDV.ObjetoTransferencia.pdb
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.Negocios\obj\Debug\PDV.Negocios.csprojAssemblyReference.cache
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.Negocios\obj\Debug\PDV.Negocios.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.Negocios\obj\Debug\PDV.Negocios.csproj.CopyComplete
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.Negocios\obj\Debug\PDV.Negocios.dll
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.Negocios\obj\Debug\PDV.Negocios.pdb

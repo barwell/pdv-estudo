@@ -12,4 +12,5 @@ namespace PDV.ObjetoTransferencia
         public string Perfil { get; set; }
         public DateTime DataCadastro { get; set; }
     }
+
 }

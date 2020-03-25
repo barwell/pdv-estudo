@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
             this.lblQuantidadeFormularios = new System.Windows.Forms.Label();
             this.grid = new System.Windows.Forms.DataGridView();
             this.FormulariosId = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -69,7 +69,6 @@
             this.label7 = new System.Windows.Forms.Label();
             this.txtPesquisarUsuario = new System.Windows.Forms.TextBox();
             this.gridUsuarios = new System.Windows.Forms.DataGridView();
-            this.toolTip = new System.Windows.Forms.ToolTip(this.components);
             this.UsuarioId_ = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Nome = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Ativo = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -77,6 +76,8 @@
             this.Senha = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Perfil = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.DataCadastro = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.toolTip = new System.Windows.Forms.ToolTip(this.components);
+            this.label8 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.grid)).BeginInit();
             this.menuPanel.SuspendLayout();
             this.tabControl.SuspendLayout();
@@ -104,8 +105,8 @@
             this.grid.AllowUserToDeleteRows = false;
             this.grid.AllowUserToResizeColumns = false;
             this.grid.AllowUserToResizeRows = false;
-            dataGridViewCellStyle1.BackColor = System.Drawing.Color.LightBlue;
-            this.grid.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle3.BackColor = System.Drawing.Color.LightBlue;
+            this.grid.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle3;
             this.grid.ColumnHeadersHeight = 24;
             this.grid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             this.grid.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
@@ -464,6 +465,7 @@
             // tabPage1
             // 
             this.tabPage1.BackColor = System.Drawing.SystemColors.Control;
+            this.tabPage1.Controls.Add(this.label8);
             this.tabPage1.Controls.Add(this.label20);
             this.tabPage1.Controls.Add(this.txtNome);
             this.tabPage1.Controls.Add(this.txtNomeLogin);
@@ -538,8 +540,8 @@
             this.gridUsuarios.AllowUserToOrderColumns = true;
             this.gridUsuarios.AllowUserToResizeColumns = false;
             this.gridUsuarios.AllowUserToResizeRows = false;
-            dataGridViewCellStyle2.BackColor = System.Drawing.Color.LightBlue;
-            this.gridUsuarios.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle4.BackColor = System.Drawing.Color.LightBlue;
+            this.gridUsuarios.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle4;
             this.gridUsuarios.ColumnHeadersHeight = 24;
             this.gridUsuarios.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             this.gridUsuarios.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
@@ -616,6 +618,14 @@
             this.DataCadastro.Name = "DataCadastro";
             this.DataCadastro.ReadOnly = true;
             this.DataCadastro.Width = 120;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(517, 9);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(0, 16);
+            this.label8.TabIndex = 224;
             // 
             // FrmUsuarios
             // 
@@ -704,5 +714,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Senha;
         private System.Windows.Forms.DataGridViewTextBoxColumn Perfil;
         private System.Windows.Forms.DataGridViewTextBoxColumn DataCadastro;
+        private System.Windows.Forms.Label label8;
     }
 }

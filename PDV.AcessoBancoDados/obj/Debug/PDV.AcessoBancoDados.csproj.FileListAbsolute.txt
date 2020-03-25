@@ -9,3 +9,9 @@ C:\Users\Pablo\Documents\web\pdv\PDV.AcessoBancoDados\obj\Debug\PDV.AcessoBancoD
 C:\Users\Pablo\Documents\web\pdv\PDV.AcessoBancoDados\obj\Debug\PDV.AcessoBancoDados.dll
 C:\Users\Pablo\Documents\web\pdv\PDV.AcessoBancoDados\obj\Debug\PDV.AcessoBancoDados.pdb
 C:\Users\Pablo\Documents\web\pdv\PDV.AcessoBancoDados\obj\Debug\PDV.AcessoBancoDados.csprojAssemblyReference.cache
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.AcessoBancoDados\bin\Debug\PDV.AcessoBancoDados.dll
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.AcessoBancoDados\bin\Debug\PDV.AcessoBancoDados.pdb
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.AcessoBancoDados\obj\Debug\PDV.AcessoBancoDados.csprojAssemblyReference.cache
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.AcessoBancoDados\obj\Debug\PDV.AcessoBancoDados.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.AcessoBancoDados\obj\Debug\PDV.AcessoBancoDados.dll
+D:\DOCUMENTOS\PROJETOS\Estudo\pdv-w\pdv-estudo\PDV.AcessoBancoDados\obj\Debug\PDV.AcessoBancoDados.pdb

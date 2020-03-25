@@ -1,10 +1,10 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
   <Config>
-    <Servidor>DEVELOPER\SQL17</Servidor>
+    <Servidor>WELL-NOTE\SQLSERVER</Servidor>
     <BancoDados>PDV</BancoDados>
     <Usuario>SA</Usuario>
-    <Senha>+WdwyYrhJ0I=</Senha>
+    <Senha>6Ai6UYnE+BgaMmRu0fXzqg==</Senha>
     <L>adnrg4aAl509YagIjgqOuA==</L>
   </Config>
 </DocumentElement>

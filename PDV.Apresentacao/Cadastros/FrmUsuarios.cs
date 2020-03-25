@@ -171,6 +171,7 @@ namespace PDV.Apresentacao.Cadastros
 
         private void FrmPermissoesSistema_Load(object sender, EventArgs e)
         {
+            label8.Text = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"); // Convert.ToString(DateTime.Now);
             CarregaComboboxUsuarios();
             CarregarGridFormularios();
             CarregarGridUsuariosCadastrados();
@@ -208,6 +209,7 @@ namespace PDV.Apresentacao.Cadastros
 
         private void btnNovo_Click(object sender, EventArgs e)
         {
+            
             if (btnSalvar.Enabled == false)
             {
                 HabilitaCampos(true);
@@ -236,8 +238,12 @@ namespace PDV.Apresentacao.Cadastros
         {
             try
             {
+                
                 if (ValidaCampos())
                 {
+                    
+                    
+
                     Usuarios usuarios = new Usuarios();
 
                     usuarios.Nome = txtNome.Text;
@@ -246,6 +252,7 @@ namespace PDV.Apresentacao.Cadastros
                     usuarios.Senha = cryptografia.Crypto(txtSenha.Text, true);
                     usuarios.Perfil = cbbPerfilUsuario.Text;
                     usuarios.DataCadastro = DateTime.Now;
+                    
 
                     if (usuarioId <= 0)
                     {
@@ -591,6 +598,6 @@ namespace PDV.Apresentacao.Cadastros
             }
         }
 
-
+       
     }
 }
